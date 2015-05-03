@@ -1,0 +1,1081 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CONTA",
+				"containsTabuWord"
+			],
+			[
+				"se",
+				"selected_card"
+			],
+			[
+				"re",
+				"recognizedText"
+			],
+			[
+				"sle",
+				"selectBox"
+			],
+			[
+				"cha",
+				"cahngeBox"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"sho",
+				"showMeThePassword"
+			],
+			[
+				"calb",
+				"callbackArgument"
+			],
+			[
+				"call",
+				"callMeWhenReady"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"to",
+				"total_score"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"s",
+				"score"
+			],
+			[
+				"fire",
+				"friends"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"per",
+				"person2"
+			],
+			[
+				"num",
+				"num_string"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"co",
+				"color-pimary"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"mo",
+				"movies_to_play"
+			],
+			[
+				"mov",
+				"movielovers"
+			],
+			[
+				"movie",
+				"movies_to_play"
+			],
+			[
+				"fe",
+				"fecha"
+			],
+			[
+				"wo",
+				"word_search"
+			],
+			[
+				"rev",
+				"revive_cell"
+			],
+			[
+				"k",
+				"kill_cell"
+			],
+			[
+				"can",
+				"can_kill"
+			],
+			[
+				"cell",
+				"cell_neighbor"
+			],
+			[
+				"Cell",
+				"Cell"
+			],
+			[
+				"S",
+				"SpamFilter"
+			],
+			[
+				"r",
+				"rank"
+			],
+			[
+				"rn",
+				"city_to_rank"
+			],
+			[
+				"P",
+				"Popularity"
+			],
+			[
+				"C",
+				"City"
+			],
+			[
+				"cit",
+				"city_to_rank"
+			],
+			[
+				"Fi",
+				"FizBuzz"
+			],
+			[
+				"String",
+				"StringCalculator"
+			],
+			[
+				"Str",
+				"String_calculator"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"output_",
+				"output_transform"
+			],
+			[
+				"ca",
+				"calculate"
+			],
+			[
+				"di",
+				"divide"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"ope",
+				"operation"
+			],
+			[
+				"time",
+				"timefile"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"as",
+				"ask_where_want_move"
+			],
+			[
+				"ask",
+				"ask_what_want_move"
+			],
+			[
+				"o",
+				"other_piece"
+			],
+			[
+				"or",
+				"origin"
+			],
+			[
+				"number",
+				"play_number"
+			],
+			[
+				"ro",
+				"room_description"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"D",
+				"Date"
+			],
+			[
+				"w",
+				"weekday"
+			],
+			[
+				"M",
+				"MagicObject"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"divi",
+				"division"
+			],
+			[
+				"es",
+				"es_multiplo_de_7"
+			],
+			[
+				"fiz",
+				"fizzbuzz"
+			],
+			[
+				"fi",
+				"fizzbuzz"
+			],
+			[
+				"pu",
+				"puts_option_menu"
+			],
+			[
+				"ge",
+				"get_option_menu_run"
+			],
+			[
+				"use",
+				"user_option"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"pr",
+				"procces_text_split"
+			],
+			[
+				"p",
+				"procces_text"
+			],
+			[
+				"en",
+				"enter_text"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"ma",
+				"marcela"
+			],
+			[
+				"no",
+				"NotificatorFactory"
+			],
+			[
+				"t",
+				"twitter"
+			],
+			[
+				"N",
+				"NotificatorFactory"
+			],
+			[
+				"F",
+				"facebook"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"ve",
+				"Vehicle"
+			],
+			[
+				"ce",
+				"create_front_page"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ci",
+				"citie"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"login",
+				"login_bd"
+			],
+			[
+				"us",
+				"user_check"
+			],
+			[
+				"los",
+				"login_session_bd"
+			],
+			[
+				"on",
+				"onchange"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"nom",
+				"nombre_bd"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"my",
+				"mypassword"
+			],
+			[
+				"ag_pa_a",
+				"ag_pa_apellido1"
+			],
+			[
+				"ag_pa_apellid",
+				"ag_pa_apellido1"
+			],
+			[
+				"LO",
+				"login_session_id"
+			],
+			[
+				"con",
+				"containerPacientes"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"c",
+				"contador"
+			],
+			[
+				"get",
+				"get_value"
+			],
+			[
+				"ite",
+				"items_array"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"RSpec",
+				"Snippet: Require spec_helper"
+			],
+			[
+				"RSpe",
+				"RubyTest: Show Test Panel"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git co",
+				"Git: Amend Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"indent",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"pakage control",
+				"Package Control: Add Channel"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 54.0,
+		"history":
+		[
+			"as",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/masx/Iron hack/Week3/day5/integration/ironhack-tabu"
+	],
+	"file_history":
+	[
+		"/home/masx/Escritorio/integration/ironhack-tabu/public/js/counter.js",
+		"/home/masx/Escritorio/integration/ironhack-tabu/public/js/validator.js",
+		"/home/masx/Escritorio/integration/ironhack-tabu/public/js/word-selector.js",
+		"/home/masx/Escritorio/integration/ironhack-tabu/public/js/voice-recognizer.js",
+		"/home/masx/Escritorio/integration/ironhack-tabu/public/js/apivoz.js",
+		"/home/masx/Escritorio/integration/ironhack-tabu/views/APIVOZ.erb",
+		"/home/masx/Iron hack/Week3/day5/ironhack-tabu/views/APIVOZ.erb",
+		"/home/masx/Iron hack/Week3/day5/ironhack-tabu/public/js/apivoz.js",
+		"/home/masx/Iron hack/Week3/day5/ironhack-tabu/public/js/voice-recognizer.js",
+		"/home/masx/Iron hack/Week3/day4/jasmine-standalone-2.2.0/SpecRunner.html",
+		"/home/masx/Escritorio/Enlazar a day3/jasmine-standalone-2.2.0/koans_raw.js",
+		"/home/masx/Iron hack/Week3/day3/example.js",
+		"/home/masx/Iron hack/Week3/day3/notas",
+		"/home/masx/Iron hack/Week3/day3/jasmine-standalone-2.2.0/koans.js",
+		"/home/masx/Iron hack/Week3/day3/jasmine-standalone-2.2.0/SpecRunner.html",
+		"/home/masx/Iron hack/Week3/day3/koans.js",
+		"/home/masx/Escritorio/Enlazar a day2/sass/sass/01.scss",
+		"/home/masx/Trabajo/Projectss_working/PhpstormProjects/Enlazar a Agenda/Agenda.php",
+		"/home/masx/Escritorio/Enlazar a day2/nota",
+		"/home/masx/Escritorio/html5up-verti/css/style.css",
+		"/home/masx/Trabajo/Projectss_working/PhpstormProjects/Enlazar a Agenda/css/gldatepicker/glDatePicker.flatwhite.css",
+		"/home/masx/Trabajo/Projectss_working/PhpstormProjects/Enlazar a Agenda/Historia.php",
+		"/home/masx/Trabajo/Projectss_working/PhpstormProjects/Enlazar a Agenda/css/css_miguel.css",
+		"/home/masx/Trabajo/Projectss_working/PhpstormProjects/Enlazar a Agenda/css/css_left_menu.css",
+		"/home/masx/Iron hack/Week3/day2/img.html",
+		"/home/masx/Proyects/PhpstormProjects/Prueba/Miguel.php",
+		"/home/masx/Iron hack/Week3/day1/web2.html",
+		"/home/masx/Iron hack/Week1/day5/Chess.rb",
+		"/home/masx/Iron hack/Week3/day1/css/style2.css",
+		"/home/masx/Developer/Andorid curso y proyectos/Proyectos/entrevista/src/prueba.java",
+		"/home/masx/Escritorio/blog/Carousel Template for Bootstrap.html",
+		"/home/masx/Iron hack/Week3/day1/css/css_miguel.css",
+		"/opt/lampp/htdocs/Agenda/css/Bootstrap/bootstrap.css",
+		"/opt/lampp/htdocs/Agenda/Agenda.php",
+		"/home/masx/Iron hack/Week3/notas",
+		"/home/masx/Escritorio/traity/miguel/sinatra/views/form.erb",
+		"/home/masx/Escritorio/traity/miguel/rails/datepicker/Gemfile",
+		"/home/masx/Escritorio/traity/miguel/sinatra/public/css/css_miguel.css",
+		"/home/masx/Iron hack/Week2/day1/views/form.erb",
+		"/home/masx/Iron hack/Week2/day2/sinatraTodo/views/task_list.erb",
+		"/home/masx/Iron hack/Week2/day2/sinatraTodo/public/form.html",
+		"/opt/lampp/htdocs/test/Agenda.php",
+		"/home/masx/Escritorio/traity/Agenda/Agenda.html",
+		"/home/masx/Escritorio/traity/time.html",
+		"/home/masx/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/masx/RubyProjects/community_reservations/Reservas/funcionts.js",
+		"/home/masx/RubyProjects/community_reservations/Reservas/Reservas.php",
+		"/home/masx/RubyProjects/community_reservations/Reservas/js/jquery-ui.js",
+		"/home/masx/RubyProjects/community_reservations/Reservas/js/bootstrap.js",
+		"/home/masx/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/masx/RubyProjects/community_reservations/sinatra/prueba.rb",
+		"/home/masx/RubyProjects/community_reservations/Reservas/gettable2.php",
+		"/home/masx/RubyProjects/community_reservations/sinatra/Gemfile",
+		"/home/masx/Escritorio/sinatra_community/views/view.erb",
+		"/home/masx/Escritorio/sinatra_community/sinatra.rb",
+		"/home/masx/Escritorio/sinatra_community/public/form.html",
+		"/home/masx/Escritorio/sinatra_community/lib/Calculate.rb",
+		"/home/masx/traity/community_reservations/app/models/house.rb",
+		"/home/masx/Escritorio/community_reservations-master/Gemfile",
+		"/home/masx/traity/community_reservations/app/models/tenis_space.rb",
+		"/home/masx/traity/community_reservations/config/initializers/mime_types.rb",
+		"/home/masx/traity/community_reservations/app/models/.keep",
+		"/home/masx/traity/community_reservations/config/application.rb",
+		"/home/masx/traity/community_reservations/app/mailers/.keep",
+		"/home/masx/Iron hack/Week2/day5/movie lover/views/movielovers.erb",
+		"/home/masx/Iron hack/Week2/day5/movie lover/lib/MoviesSearch.rb",
+		"/home/masx/Iron hack/Week2/day5/movie lover/MovieLover_controller.rb",
+		"/home/masx/Iron hack/Week1/day4/exercise/Graphicalmovierating.rb",
+		"/home/masx/Iron hack/Week2/day4/EmialProvider/spec/EmailProvider_spec.rb",
+		"/home/masx/Iron hack/Week2/day5/movie lover/views/task_list.erb",
+		"/home/masx/Iron hack/Week2/day5/movie lover/Gemfile",
+		"/home/masx/Iron hack/Week2/day4/Conway's game of life/Gemfile",
+		"/home/masx/Iron hack/Week2/day4/Conway's game of life/Gemfile.lock",
+		"/home/masx/Iron hack/Week2/day4/Conway's game of life/spec/EmailProvider_spec.rb",
+		"/home/masx/Iron hack/Week2/day4/Conway's game of life/EmailProvider.rb",
+		"/home/masx/Iron hack/Week2/day4/EmialProvider/Gemfile.lock",
+		"/home/masx/Iron hack/Week2/day4/EmialProvider/Gemfile",
+		"/home/masx/Iron hack/Week2/day4/EmialProvider/EmailProvider.rb",
+		"/home/masx/Iron hack/Week2/day4/notas~",
+		"/home/masx/Iron hack/Week2/day4/notas",
+		"/home/masx/Iron hack/Week2/day4/Gemfile.lock",
+		"/home/masx/Iron hack/Week2/day4/Gemfile",
+		"/home/masx/Iron hack/Week2/day4/EmailProvider.rb",
+		"/home/masx/Iron hack/Week2/day4/spec/EmailProvider_spec.rb",
+		"/home/masx/Iron hack/Week2/day3/exercise2/Spam_filte.rb",
+		"/home/masx/Iron hack/Week2/day3/String_calculator.rb",
+		"/home/masx/Iron hack/Week2/day4/EmailProvider_spec.rb",
+		"/home/masx/Iron hack/Pre-work/Ruby/Shoppingcart_duda.rb",
+		"/home/masx/Iron hack/Pre-work/Ruby/Shoppingcart.rb",
+		"/home/masx/Iron hack/Pre-work/Ruby/FizzBuzz.rb",
+		"/home/masx/Iron hack/Pre-work/Ruby/Caesar_cipher.rb",
+		"/home/masx/Iron hack/Week2/day3/String_calculator_spec.rb",
+		"/home/masx/Iron hack/Week2/day3/spec/FizzBuzz_spec.rb",
+		"/home/masx/Iron hack/Week2/day3/FizzBuzz.rb",
+		"/home/masx/Iron hack/Week2/day3/exercise/spec/Popularity_spec.rb",
+		"/home/masx/.config/sublime-text-3/Packages/RubyTest/Default (Linux).sublime-keymap",
+		"/home/masx/.config/sublime-text-3/Packages/RubyTest/RubyTest.sublime-settings",
+		"/home/masx/.config/sublime-text-3/Packages/RubyTest/Default.sublime-keymap",
+		"/home/masx/Iron hack/Week2/day1/sinatra_example.rb",
+		"/home/masx/Iron hack/Week2/day2/lib/Calculate.rb",
+		"/home/masx/Iron hack/Week2/day2/views/users.erb",
+		"/home/masx/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/masx/Iron hack/Week2/day2/sinatra_example.rb",
+		"/home/masx/Iron hack/Week2/day2/public/css/fonts/glyphicons-halflings-regular.svg",
+		"/home/masx/Iron hack/Week2/day2/views/calculate.erb",
+		"/home/masx/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/masx/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/masx/Iron hack/Week2/day3/exercise/Popularity.rb",
+		"/home/masx/Escritorio/publicacion/Documento sin título",
+		"/home/masx/Iron hack/Week2/day3/exercise2/spec/Span_filte_spec.rb",
+		"/home/masx/Iron hack/Week2/day3/exercise2/Documento sin título~",
+		"/home/masx/Escritorio/exercise/Popularity.rb",
+		"/home/masx/Iron hack/Week1/day3/fizzbuzzpro.rb",
+		"/home/masx/Iron hack/Week2/day3/spec/String_calculator_spec.rb",
+		"/home/masx/Iron hack/Week2/day3/fizzBuzzAgain.rb",
+		"/home/masx/Iron hack/Week2/day3/Gemfile",
+		"/home/masx/Iron hack/Week2/day3/spec/String_calculator.rb",
+		"/home/masx/Iron hack/Week2/day3/Gemfile.lock",
+		"/home/masx/Iron hack/Week2/day3/Example_text.rb",
+		"/home/masx/Iron hack/Week2/day2/sinatraTodo/sinatraTodo.rb",
+		"/home/masx/Iron hack/Week2/day2/sinatraTodo/views/show_image.erb",
+		"/home/masx/Iron hack/Week2/day2/sinatraTodo/sinatra_example.rb",
+		"/home/masx/Iron hack/Week2/day2/lib/MiniMagick.rb",
+		"/home/masx/Iron hack/Week2/day2/views/file_upload.erb",
+		"/home/masx/Iron hack/Week2/day2/views/show_image.erb",
+		"/home/masx/Iron hack/Week2/day1/views/file_upload.erb",
+		"/home/masx/Iron hack/Week2/day2/views/show_user.erb",
+		"/home/masx/Iron hack/Week2/day2/Gemfile.lock"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"containsTabuWord",
+			"getsWords",
+			"play",
+			"but",
+			"recognizer",
+			"script",
+			"selectBox",
+			"selecBox",
+			"cahngeBox",
+			"rederCallback",
+			"username",
+			"renderWhenRedy",
+			"rederCallback",
+			"cahngeBox",
+			"rederCallback",
+			"renderWhenRedy",
+			"otherbox",
+			"boxcolor",
+			"otherbox",
+			"password",
+			"username",
+			"password",
+			"passwrd",
+			"text",
+			"showMeThePassword",
+			"username",
+			"ChangeText",
+			"ViewText",
+			"callMeWhenReady",
+			"text",
+			"parameter1",
+			"text",
+			"parameter1",
+			"reverse",
+			"reversestring",
+			"reverse",
+			"function",
+			"reverse",
+			"djnjsdnkdf\nsdkjdssdjnjsdnksdf\nfskjdssdjnjsdnkdfs\nsdkjdss",
+			"otherBox",
+			"result",
+			"submit",
+			"username",
+			"result",
+			"submit",
+			"username",
+			"result",
+			"submit",
+			"result",
+			"submit",
+			"username",
+			"result",
+			"points",
+			"incrementScoreIn",
+			"points",
+			"incrementScoreIn",
+			"triki",
+			"tree",
+			"count",
+			"cool",
+			"test",
+			"cool",
+			"test",
+			"();",
+			"example",
+			"NaN is not comparable with NaN",
+			"the JavaScript language has different types and operators that surprises me, NaN is not comparable with NaN",
+			"pimary",
+			"color_pimary",
+			"pimary",
+			"@media",
+			"img",
+			"style",
+			"mujer",
+			"cker",
+			"timepicker",
+			"bootstrap",
+			"javascript",
+			"timepicker1",
+			"text",
+			"assets",
+			"timepicker",
+			"bootstrap",
+			"assets",
+			"php",
+			"enviaremail",
+			"command",
+			"ctrl+d",
+			"ctrl+",
+			"ctrl+d",
+			"control+d",
+			"auto_match_enabled",
+			"quotes",
+			"pairing of quotes",
+			"a",
+			"cellfarm_map",
+			"board",
+			"nil",
+			"true",
+			"toggle_side_bar",
+			"ctrl+c",
+			"ctrl+k",
+			"comment",
+			"end",
+			"'\n",
+			"end",
+			"true",
+			"comments",
+			"end",
+			"rank_number_visit",
+			"upper",
+			"line",
+			"ñine",
+			"delete",
+			"comment",
+			"toggle",
+			"toggle_comment",
+			"def",
+			"array_trasform",
+			"array_origin",
+			"cls",
+			"spa",
+			"head",
+			"fonts",
+			"]",
+			"board_to_print",
+			"hash_board",
+			"@b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rank_visit",
+			"array_trasform_path",
+			"array_origin_path",
+			"].draw_piece",
+			"board",
+			"@board_to_print",
+			"piece",
+			"pice_origin,pice_to_go",
+			"b",
+			"Horse",
+			"play_number",
+			"number",
+			"game_map",
+			"discount_funtion",
+			"item_value",
+			"item_name",
+			"item_count",
+			"item_value",
+			"`",
+			"",
+			"latin1",
+			"UTF-16",
+			"utf8_unicode_ci",
+			"utf8 COLLATE utf8_unicode_ci",
+			"latin1 ",
+			"utf8mb4",
+			"NH",
+			"O"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/masx/Iron hack/Week3/day5/integration/ironhack-tabu"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rese",
+				"Reservas.php"
+			],
+			[
+				"re",
+				"Reservas.php"
+			],
+			[
+				"ho",
+				"app/models/house.rb"
+			],
+			[
+				"",
+				"EmailProvider.rb"
+			],
+			[
+				"spe",
+				"spec/EmailProvider_spec.rb"
+			],
+			[
+				"ca",
+				"String_calculator.rb"
+			],
+			[
+				"rb",
+				"lib/Calculate.rb"
+			],
+			[
+				"erb",
+				"views/users.erb"
+			],
+			[
+				"spa",
+				"spec/Span_filte_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"can",
+				"can_revive"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"",
+				"add"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
